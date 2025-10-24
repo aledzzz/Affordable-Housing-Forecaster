@@ -1,5 +1,5 @@
 # Affordable Housing Forecaster
-My final AP Research project that used predictive models to forecast housing affordability trends using key economic indicators and past housing data analysis.
+A project using predictive models to forecast housing affordability trends using key economic indicators and past housing data analysis.
 
 ## Models
 - Recurrent Neural Networks (RNN)
