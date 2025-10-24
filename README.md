@@ -1,2 +1,2 @@
-# Affordable-Housing-Forecaster
+# Affordable Housing Forecaster
 AP Research Project
