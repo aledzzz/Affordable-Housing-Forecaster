@@ -1,5 +1,5 @@
 # Affordable Housing Forecaster
-AP Research Project
+A pair of predictive models used to forecast housing affordability trends using key economic indicators and past housing data analysis 
 
 ## Models
 - Recurrent Neural Networks (RNN)
