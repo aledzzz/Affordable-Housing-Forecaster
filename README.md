@@ -1,7 +1,11 @@
 # Affordable Housing Forecaster
 AP Research Project
 
-## Programs and Libraries Used
+## Models
+- Recurrent Neural Networks (RNN)
+- Long Short-Term Memory (LSTM)
+
+## Programs and Libraries
 - Excel
 - Pandas
 - Numpy
