@@ -11,3 +11,5 @@ A project using predictive models to forecast housing affordability trends using
 - Numpy
 - Scikit-learn
 - Matplotlib
+
+## Results
