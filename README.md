@@ -2,7 +2,7 @@
 Python-based forecasting tool created for my AP Research Final Project, ultimately used to output housing price predictions on the all nine counties within the Bay Area.
 
 # Project Abstract
-Create a forecasting algorithm using neural network models (RNN & LSTM) and past housing data that can predict future housing affordability (2025-2027) within the San Francisco Bay Area. Additionally, a scalable Housing Affordability Index (HAI) calculator will be used to condense all the economic and time series data from the past 5 years (2019-2024).
+Create a forecasting algorithm using neural network models (RNN & LSTM) and past housing data that can predict future housing affordability (2025-2027) within the San Francisco Bay Area. Additionally, a scalable Housing Affordability Index (HAI) calculator will be used to condense all the economic and time series data from the past 6 years (2019-2024).
 
 # Prerequisites
 - Python 3.12
@@ -40,6 +40,7 @@ Start main.py file
 3. Stage Changes (`git add .`)
 4. Commit new changes (`git commit -m "enter message here"`)
 5. Push changes to main branch (`git push origin main`)
+
 
 
 
