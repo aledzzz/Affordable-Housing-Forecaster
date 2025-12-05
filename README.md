@@ -8,8 +8,13 @@ Create a forecasting algorithm using neural network models (RNN & LSTM) and past
 - Python 3.12
 - pip (Python installation manager)
 
-# Results
-
+# Training and Validation Metrics
+<p align="center">
+  <img src="https://github.com/aledzzz/Affordable-Housing-Forecaster/blob/7f199f12c7c8a8ba9f22dee9b119fdc706d53e13/lstm_metrics.png" alt="results table"/>
+</p>
+<p align="center">
+  <img src="https://github.com/aledzzz/Affordable-Housing-Forecaster/blob/7f199f12c7c8a8ba9f22dee9b119fdc706d53e13/rnn_metrics.png" alt="results table"/>
+</p>
 
 # How to Run the Program
 1.) Clone git respository
@@ -35,6 +40,7 @@ Start main.py file
 3. Stage Changes (`git add .`)
 4. Commit new changes (`git commit -m "enter message here"`)
 5. Push changes to main branch (`git push origin main`)
+
 
 
 
