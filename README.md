@@ -9,7 +9,7 @@ Create a forecasting algorithm using neural network models (RNN & LSTM) and past
 - pip (Python installation manager)
 
 # Results
-(*NEED TO FINISH*)
+
 
 # How to Run the Program
 1.) Clone git respository
@@ -35,6 +35,7 @@ Start main.py file
 3. Stage Changes (`git add .`)
 4. Commit new changes (`git commit -m "enter message here"`)
 5. Push changes to main branch (`git push origin main`)
+
 
 
 
