@@ -14,7 +14,7 @@ Python-based forecasting tool created for my AP Research Final Project, ultimate
 # How to Run the Program
 1.) Clone git respository
 ```
-git clone (https://github.com/aledzzz/Affordable-Housing-Forecaster.git)
+git clone https://github.com/aledzzz/Affordable-Housing-Forecaster.git
 ```
 2.) Create virtual environment
 ```
@@ -35,5 +35,6 @@ Start main.py file
 3. Stage Changes (`git add .`)
 4. Commit new changes (`git commit -m "enter message here"`)
 5. Push changes to main branch (`git push origin main`)
+
 
 
