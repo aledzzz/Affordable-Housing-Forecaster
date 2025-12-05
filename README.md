@@ -42,14 +42,6 @@ Start main.py file
 5. Push changes to main branch (`git push origin main`)
 
 
-<!--
-Source - https://stackoverflow.com/a
-Posted by Laaouatni Anas, modified by community. See post 'Timeline' for change history
-Retrieved 2025-12-05, License - CC BY-SA 4.0
--->
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laaouatni&repo=gcode.js)
-
 
 
 
