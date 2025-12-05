@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 4.) Run RNN and LSTM models
 ```
-Run main.py file
+Start main.py file
 ```
 
 # How to Make Changes to Main Code
@@ -35,3 +35,4 @@ Run main.py file
 3. Stage Changes (`git add .`)
 4. Commit new changes (`git commit -m "enter message here"`)
 5. Push changes to main branch (`git push origin main`)
+
